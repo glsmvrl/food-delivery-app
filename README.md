@@ -1,4 +1,4 @@
-# Food-Delivery-App-React-Native
+# Food Delivery App React-Native
 
 ## Get Started
 
